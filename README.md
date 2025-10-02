@@ -1,3 +1,7 @@
+> [!CAUTION]
+> This repository has been archived as of October 2025.  
+> If you wish to update or extend this project, please create a fork.
+
 # CASE STUDY FOR Junior Java Backend Services
 
 Hi and welcome to the trivago Junior Java Backend Services challenge.
